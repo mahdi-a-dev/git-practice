@@ -1,2 +1,5 @@
 print("Hello Git")
-print("Master branch update")
+
+def add(a, b):
+    return a + b
+
