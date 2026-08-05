@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def multiply(a, b):
     return a * b
+
+def division(a, b):
+    return a / b if b != 0 else "Error, division by zero."
