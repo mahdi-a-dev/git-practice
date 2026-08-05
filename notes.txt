@@ -16,3 +16,4 @@ Today Practiced
 - git push -u
 - Delete local branch
 - Delete remote branch
+- create a issues and fix it
