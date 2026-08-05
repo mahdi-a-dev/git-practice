@@ -2,10 +2,17 @@ Today Practiced
 - git init
 - git add
 - git commit
+- git log
 - git branch
 - git switch
 - git merge
 - git rebase
+- git rebase -i
+- Conflict resolution
+- git remote
 - git fetch
 - git pull
 - git push
+- git push -u
+- Delete local branch
+- Delete remote branch
