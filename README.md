@@ -8,3 +8,8 @@ This repository is for practicing git and github.
 - practice local git
 - practice remote git
 - solving problems
+
+## Project Structure
+
+- app.py
+- logger.py
