@@ -11,3 +11,6 @@ def multiply(a, b):
 
 def division(a, b):
     return a / b if b != 0 else "Error, division by zero."
+
+def average(numbers):
+    return sum(numbers) / len(numbers)
