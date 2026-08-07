@@ -17,3 +17,4 @@ Today Practiced
 - Delete local branch
 - Delete remote branch
 - create a issues and fix it
+- create .gitignore
